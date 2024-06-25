@@ -1,0 +1,6 @@
+/Users/ryan/Desktop/NBA API/src/main/java/api/nba/NbaApiApplication.java
+/Users/ryan/Desktop/NBA API/src/main/java/api/nba/controller/GameController.java
+/Users/ryan/Desktop/NBA API/src/main/java/api/nba/model/Game.java
+/Users/ryan/Desktop/NBA API/src/main/java/api/nba/repository/GameRepo.java
+/Users/ryan/Desktop/NBA API/src/main/java/api/nba/service/DataParser.java
+/Users/ryan/Desktop/NBA API/src/main/java/api/nba/service/GameService.java
